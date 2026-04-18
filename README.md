@@ -230,6 +230,14 @@ BI-Control-Tower-EuroTrade/
 ├── 📁 03_PowerBI/
 │   └── BI-Control-Tower-EuroTrade-GmbH.pbix
 │
+├── 📁 assets/
+│   ├── executive_overview.png
+│   ├── logistics_performance.png
+│   └── customer_product.png
+│
+├── 📁 database/
+│   └── logistics_warehouse.db
+│
 └── README.md
 ```
 
