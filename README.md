@@ -32,6 +32,17 @@
 ### Page 3 — Customer & Product Analysis
 ![Customer & Product](assets/customer_product.png)
 
+
+## Power BI Dashboard Access
+
+Scan the QR code below using the Power BI Mobile app to access the interactive dashboard for this project.
+
+<p align="center">
+  <img src="assets/powerbi-dashboard-qr.jpg" alt="Power BI Dashboard QR Code" width="220"/>
+</p>
+
+> Note: Dashboard access may require Power BI permissions or sign-in authorization.
+
 ---
 
 ## 🎯 The Business Problem
