@@ -288,5 +288,5 @@ Every layer of this project — from schema design to ETL pipeline to Power BI d
 ---
 
 <div align="center">
-<sub>📍 Berlin, Germany · Open to relocation · 🏆 Microsoft PL-300 In Progress · May 2026 · 🗓️ Last updated: April 2026</sub>
+<sub>📍 Berlin, Germany · Open to relocation · 🏆 Microsoft PL-300 In Progress · June 2026 · 🗓️ Last updated: May 2026</sub>
 </div>
